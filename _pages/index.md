@@ -1,17 +1,13 @@
 ---
-title: "ここにページのタイトル"
-author: default
-permalink: /
+title: "###近畿大学理工学部機械工学科"
+author: Yuki Nakanishi
+permalink:
 ---
 
-
-こんにちは
 
 
 
 ---
-
-以下テンプレート
 
 # 見出し1
 ## 見出し2
@@ -23,7 +19,7 @@ permalink: /
 改行は、行末に半角スペースを2個いれる
 次の行
 
-[リンク](https://www.google.co.jp/)
+[リンク](https://www.kindai.ac.jp/)
 
 **太字**
 
@@ -31,9 +27,12 @@ permalink: /
 >> 多重引用
 
 
-- 箇条書きリスト
-  - ネスト
-    - さらにネスト
+- 学科一覧
+　- 機械工学科
+    - 機械工学コース
+    - 知能機械システムコース
+  - 電気電子通信工学科　
+    
 
 
 1. 番号付きリスト
@@ -41,9 +40,9 @@ permalink: /
       1. さらにネスト
 
 
-| 列1  | 列2  |
+| 東京  | 大阪  |
 |-----|-----|
-| 内容  | 内容  |
-| 内容  | 内容  |
+| USJ  | DL  |
+| OSAKA  | TOKYO  |
 
 ![image](/GHPages_WebSite/assets/images/logo-150.png)
